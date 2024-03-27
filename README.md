@@ -32,7 +32,7 @@ Ready to take your business to the next level? Contact FuturifySoft today to dis
 
 ## Connect with Us
 
-Stay updated with the latest insights and trends from FuturifySoft. Follow us on [LinkedIn](https://www.linkedin.com/company/futurifysoft), [Reddit]([https://twitter.com/FuturifySoft](https://www.reddit.com/user/futurifysoft)), and [Facebook](https://web.facebook.com/futurifysoft/).
+Stay updated with the latest insights and trends from FuturifySoft. Follow us on [LinkedIn](https://www.linkedin.com/company/futurifysoft), [Reddit](https://www.reddit.com/user/futurifysoft)), and [Facebook](https://web.facebook.com/futurifysoft/).
 
 ---
 
