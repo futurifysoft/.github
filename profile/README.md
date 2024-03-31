@@ -1,8 +1,6 @@
-# FuturifySoft Solutions LLC
+# Welcome to FuturifySoft - Softening Futuristic Solutions
 
-Welcome to FuturifySoft - Softening Futuristic Solutions
-
-![FuturifySoft Logo](https://futurifysoft.696tech.com/assets/uploads/media-uploader/grid-variations-11711844326.jpg)
+![FuturifySoft Logo](https://scontent.fhdd3-1.fna.fbcdn.net/v/t39.30808-6/434315594_122112742262250531_8134035666143766711_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH37JF-1GspH55ZB_FN5Ux6amwoPqgB0OpqbCg-qAHQ6jIrO1K1SAQp75YaJFTgpE8q4_3sIy23CbeilML9TG3d&_nc_ohc=zL0F4Lt1jVEAX_mDY7y&_nc_zt=23&_nc_ht=scontent.fhdd3-1.fna&cb_e2o_trans=t&oh=00_AfB6OA23A6P-Aenm8lUCm7LzZwDE9bzQMmLRnATajdveyw&oe=660F2343)
 
 ## About Us
 
