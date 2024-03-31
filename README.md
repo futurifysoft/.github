@@ -1,8 +1,6 @@
-# FuturifySoft
+# Welcome to FuturifySoft - Softening Futuristic Solutions
 
-Welcome to FuturifySoft - Empowering Businesses with Innovative Software Solutions
-
-![FuturifySoft Logo](https://futurifysoft.696tech.com/assets/uploads/media-uploader/grid-variations-11711844326.jpg)
+![FuturifySoft Logo](https://scontent.fhdd3-1.fna.fbcdn.net/v/t39.30808-6/434315594_122112742262250531_8134035666143766711_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH37JF-1GspH55ZB_FN5Ux6amwoPqgB0OpqbCg-qAHQ6jIrO1K1SAQp75YaJFTgpE8q4_3sIy23CbeilML9TG3d&_nc_ohc=zL0F4Lt1jVEAX_mDY7y&_nc_zt=23&_nc_ht=scontent.fhdd3-1.fna&cb_e2o_trans=t&oh=00_AfB6OA23A6P-Aenm8lUCm7LzZwDE9bzQMmLRnATajdveyw&oe=660F2343)
 
 ## About Us
 
@@ -24,6 +22,7 @@ Our vision is to redefine the future of software development, setting new standa
 - **ERP SAAS Solutions**: Streamline your operations with our comprehensive ERP SAAS solutions designed for various industries.
 - **Web and Mobile Application Development**: Engage your audience with intuitive and high-performance web and mobile applications crafted by our expert team.
 - **Digital Marketing Services**: Boost your online presence and reach your target audience with our result-driven digital marketing strategies.
+- **Graphic Design Services**: Elevate your brand's visual identity with our creative graphic design solutions. From captivating logos to stunning visuals.
 - **SAAS Development Services**: Transform your ideas into scalable, cloud-based software solutions with our SAAS development services.
 
 ## Get in Touch
