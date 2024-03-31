@@ -2,7 +2,7 @@
 
 Welcome to FuturifySoft - Softening Futuristic Solutions
 
-![FuturifySoft Logo](https://your-organization-logo-url.com)
+![FuturifySoft Logo]([https://futurifysoft.com](https://futurifysoft.696tech.com/assets/uploads/media-uploader/grid-variations-11711844326.jpg))
 
 ## About Us
 
